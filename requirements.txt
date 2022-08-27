@@ -1,0 +1,8 @@
+pandas
+numpy
+keybert
+sentence-transformers
+keyphrase_vectorizers
+pymongo
+pymysql
+treelib

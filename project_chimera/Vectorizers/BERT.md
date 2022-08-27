@@ -1,0 +1,4 @@
+# BERT
+Bidirectional Encoder Representations from Transformer uses the transformer, which is an encoder-decoder architecture which uses attention mechanisms to forward a more complete picture of the whole sequence to the decoder at once rather than sequentially.  Thus, overcoming the vanishing gradient problem that exists in the [LSTM RNN](https://builtin.com/data-science/recurrent-neural-networks-and-lstm) architecture.
+
+The [transformer architecure](https://arxiv.org/pdf/1706.03762.pdf) - Attention is all you need paper explains the architecture in much more detail. In this case, we will be using only the encoder from BERT to generate our word embeddings.
